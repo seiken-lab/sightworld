@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Seiken Lab.</title>
+    <link>https://seiken-lab.com/</link>
+    <description>Recent content on Seiken Lab.</description>
+    <generator>Hugo -- 0.147.9</generator>
+    <language>ja</language>
+    <lastBuildDate>Tue, 24 Jun 2025 23:23:32 +0900</lastBuildDate>
+    <atom:link href="https://seiken-lab.com/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Jsb01</title>
+      <link>https://seiken-lab.com/products/jsb01/</link>
+      <pubDate>Tue, 24 Jun 2025 23:23:32 +0900</pubDate>
+      <guid>https://seiken-lab.com/products/jsb01/</guid>
+      <description>&lt;h2 id=&#34;jsb01&#34;&gt;JSB01&lt;/h2&gt;
+&lt;p&gt;作りましたよ。&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Hello</title>
+      <link>https://seiken-lab.com/post/hello/</link>
+      <pubDate>Tue, 24 Jun 2025 16:00:00 +0900</pubDate>
+      <guid>https://seiken-lab.com/post/hello/</guid>
+      <description>&lt;h2 id=&#34;サイト公開のお知らせ&#34;&gt;サイト公開のお知らせ&lt;/h2&gt;
+&lt;p&gt;この度、Seikenラボのサイトを作ることになりました。&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>
