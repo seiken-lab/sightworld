@@ -55,12 +55,12 @@ UseHugoToc = true
 # author = 'Me'
 comments = false
 defaultTheme = 'auto'
-description = 'Seiken Laboratory is a blog about programming, technology, and more.'
+description = 'Seiken Laboratory is a website about programming, technology, and more.'
 disableScrollToTop = true
 disableSpecial1stPost = false
 disableThemeToggle = false
 env = 'production'
-hideSummary = true
+# hideSummary = true
 hidemeta = true
 # images = ['<link or path of image for opengraph, twitter-cards>']
 # keywords = ['Blog', 'Portfolio', 'PaperMod']
@@ -106,8 +106,11 @@ shouldSort = true
 threshold = 0.4
 
 [params.homeInfoParams]
-Content = 'Welcome to my blog'
-Title = 'Hi there 👋'
+Content = """
+Seikenラボのページへようこそ！
+このサイトでは、Seikenラボの活動や制作しているデバイスやソフトウェアについての情報を発信しています。
+"""
+Title = 'ようこそ 👋'
 
 # [params.label]
 # icon = '/apple-touch-icon.png'
