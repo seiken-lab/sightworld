@@ -4,17 +4,27 @@
     <title>Posts on Seiken Lab.</title>
     <link>https://seiken-lab.com/post/</link>
     <description>Recent content in Posts on Seiken Lab.</description>
-    <generator>Hugo -- 0.147.9</generator>
+    <generator>Hugo -- 0.148.1</generator>
     <language>ja</language>
-    <lastBuildDate>Tue, 24 Jun 2025 16:00:00 +0900</lastBuildDate>
+    <lastBuildDate>Fri, 01 Aug 2025 06:00:00 +0900</lastBuildDate>
     <atom:link href="https://seiken-lab.com/post/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>超音波方式歩行補助デバイスJsb01</title>
+      <link>https://seiken-lab.com/post/jsb01/</link>
+      <pubDate>Fri, 01 Aug 2025 06:00:00 +0900</pubDate>
+      <guid>https://seiken-lab.com/post/jsb01/</guid>
+      <description>&lt;p&gt;超音波を用いて周辺の物体を検知して、視覚障害者の歩行を補助するデバイスです。詳細は下記を御覧ください。&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://docs.google.com/document/d/e/2PACX-1vSr4qG29OL1cIePVZEj-3cVqa-Ar_ail2Q-lqQpVa3MB6QIyQQ3aAyznjfrzuusvAiI7FHqygYv7CC1/pub&#34;&gt;JSB01 リーフレット&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;</description>
+    </item>
     <item>
       <title>Hello</title>
       <link>https://seiken-lab.com/post/hello/</link>
-      <pubDate>Tue, 24 Jun 2025 16:00:00 +0900</pubDate>
+      <pubDate>Fri, 01 Aug 2025 00:00:00 +0900</pubDate>
       <guid>https://seiken-lab.com/post/hello/</guid>
       <description>&lt;h2 id=&#34;サイト公開のお知らせ&#34;&gt;サイト公開のお知らせ&lt;/h2&gt;
-&lt;p&gt;この度、Seikenラボのサイトを作ることになりました。&lt;/p&gt;</description>
+&lt;p&gt;この度、Seikenラボのサイトを作ることになりました。ラボで取り組んでいるデバイスやソフトウェア、あるいはアイディアについて紹介していきます。まだまだ工事中の状態ですが、どうぞ御覧ください。&lt;/p&gt;</description>
     </item>
   </channel>
 </rss>
