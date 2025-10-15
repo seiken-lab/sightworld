@@ -2,11 +2,20 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://seiken-lab.com/post/</loc>
-    <lastmod>2025-08-01T06:00:00+09:00</lastmod>
-  </url><url>
     <loc>https://seiken-lab.com/</loc>
-    <lastmod>2025-08-01T06:00:00+09:00</lastmod>
+    <lastmod>2025-10-16T00:00:00+09:00</lastmod>
+  </url><url>
+    <loc>https://seiken-lab.com/sightworld/</loc>
+    <lastmod>2025-10-16T00:00:00+09:00</lastmod>
+  </url><url>
+    <loc>https://seiken-lab.com/post/</loc>
+    <lastmod>2025-10-14T11:06:42+09:00</lastmod>
+  </url><url>
+    <loc>https://seiken-lab.com/about/</loc>
+    <lastmod>2025-10-14T10:00:00+09:00</lastmod>
+  </url><url>
+    <loc>https://seiken-lab.com/about/seikenlab/</loc>
+    <lastmod>2025-10-14T10:00:00+09:00</lastmod>
   </url><url>
     <loc>https://seiken-lab.com/post/jsb01/</loc>
     <lastmod>2025-08-01T06:00:00+09:00</lastmod>

@@ -4,10 +4,29 @@
     <title>Seiken Lab.</title>
     <link>https://seiken-lab.com/</link>
     <description>Recent content on Seiken Lab.</description>
-    <generator>Hugo -- 0.148.1</generator>
+    <generator>Hugo -- 0.151.0</generator>
     <language>ja</language>
-    <lastBuildDate>Fri, 01 Aug 2025 06:00:00 +0900</lastBuildDate>
+    <lastBuildDate>Tue, 14 Oct 2025 10:00:00 +0900</lastBuildDate>
     <atom:link href="https://seiken-lab.com/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Seiken ラボについて</title>
+      <link>https://seiken-lab.com/about/seikenlab/</link>
+      <pubDate>Tue, 14 Oct 2025 10:00:00 +0900</pubDate>
+      <guid>https://seiken-lab.com/about/seikenlab/</guid>
+      <description>&lt;p&gt;Seikenラボは、Seikenこと切明政憲が、面白いと思ったことや面白いと思ったものを形にできればと活動している一人プロジェクトです。そんななかから時々製品にできそうなものが現れることもあります。&lt;/p&gt;
+&lt;p&gt;また、上記の趣旨に共鳴してくださって作成を手伝ってくださったり、ご自分でもアイディアをくださる方と一緒にプロジェクトを進めていくこともあります。&lt;/p&gt;
+&lt;p&gt;Seikenは主に次のような分野で活動したいと考えています。&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;支援技術分野&lt;/li&gt;
+&lt;li&gt;音楽・音・などのエンターテイメント分野&lt;/li&gt;
+&lt;li&gt;その他雑多に面白いと思う分野&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;これらの分野でハードウェアを制作したり、ソフトウェアを制作したりできれば楽しいだろうなと考えています。&lt;/p&gt;
+&lt;p&gt;これまでに企画したり制作したりしてきたソフトウェアはプロダクトページにてご確認ください。&lt;/p&gt;
+&lt;p&gt;ご連絡お問い合わせは、
+&lt;a href=&#34;mailto:seiken@rd01.net&#34;&gt;seiken@rd01.net&lt;/a&gt;
+までお願いいたします。&lt;/p&gt;</description>
+    </item>
     <item>
       <title>超音波方式歩行補助デバイスJsb01</title>
       <link>https://seiken-lab.com/post/jsb01/</link>
@@ -35,6 +54,12 @@
 &lt;p&gt;超音波を用いて周辺の物体を検知して、視覚障害者の歩行を補助するデバイスです。詳細は下記を御覧ください。&lt;/p&gt;
 &lt;ul&gt;
 &lt;li&gt;&lt;a href=&#34;https://docs.google.com/document/d/e/2PACX-1vSr4qG29OL1cIePVZEj-3cVqa-Ar_ail2Q-lqQpVa3MB6QIyQQ3aAyznjfrzuusvAiI7FHqygYv7CC1/pub&#34;&gt;JSB01 リーフレット&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;2026年初頭発売決定&#34;&gt;2026年初頭発売決定&lt;/h2&gt;
+&lt;p&gt;構想から4年？5年？試作から2年ちょっと、本当に発売できることになりました。力を貸してくださったみなさまに感謝いたします。&lt;/p&gt;
+&lt;p&gt;下記のフォームにご登録頂いた方に、発売関連の情報をお送りいたします。ご興味のある方はぜひご登録ください。&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://forms.gle/CXZH6rmWosPmfkyr7&#34;&gt;JSB01購入希望登録&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;</description>
     </item>
   </channel>

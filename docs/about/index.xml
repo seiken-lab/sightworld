@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Abouts on Seiken Lab.</title>
+    <link>https://seiken-lab.com/about/</link>
+    <description>Recent content in Abouts on Seiken Lab.</description>
+    <generator>Hugo -- 0.151.0</generator>
+    <language>ja</language>
+    <lastBuildDate>Tue, 14 Oct 2025 10:00:00 +0900</lastBuildDate>
+    <atom:link href="https://seiken-lab.com/about/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Seiken ラボについて</title>
+      <link>https://seiken-lab.com/about/seikenlab/</link>
+      <pubDate>Tue, 14 Oct 2025 10:00:00 +0900</pubDate>
+      <guid>https://seiken-lab.com/about/seikenlab/</guid>
+      <description>&lt;p&gt;Seikenラボは、Seikenこと切明政憲が、面白いと思ったことや面白いと思ったものを形にできればと活動している一人プロジェクトです。そんななかから時々製品にできそうなものが現れることもあります。&lt;/p&gt;
+&lt;p&gt;また、上記の趣旨に共鳴してくださって作成を手伝ってくださったり、ご自分でもアイディアをくださる方と一緒にプロジェクトを進めていくこともあります。&lt;/p&gt;
+&lt;p&gt;Seikenは主に次のような分野で活動したいと考えています。&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;支援技術分野&lt;/li&gt;
+&lt;li&gt;音楽・音・などのエンターテイメント分野&lt;/li&gt;
+&lt;li&gt;その他雑多に面白いと思う分野&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;これらの分野でハードウェアを制作したり、ソフトウェアを制作したりできれば楽しいだろうなと考えています。&lt;/p&gt;
+&lt;p&gt;これまでに企画したり制作したりしてきたソフトウェアはプロダクトページにてご確認ください。&lt;/p&gt;
+&lt;p&gt;ご連絡お問い合わせは、
+&lt;a href=&#34;mailto:seiken@rd01.net&#34;&gt;seiken@rd01.net&lt;/a&gt;
+までお願いいたします。&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>
