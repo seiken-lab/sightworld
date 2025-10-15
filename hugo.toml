@@ -27,16 +27,10 @@ url = '/blog/'
 weight = 20
 
 [[menu.main]]
-identifier = 'categories'
-name = 'categories'
-url = '/categories/'
+identifier = 'about'
+name = 'about'
+url = '/about/'
 weight = 30
-
-[[menu.main]]
-identifier = 'tags'
-name = 'tags'
-url = '/tags/'
-weight = 40
 
 [minify]
 disableXML = true
@@ -60,7 +54,7 @@ disableScrollToTop = true
 disableSpecial1stPost = false
 disableThemeToggle = false
 env = 'production'
-# hideSummary = true
+hideSummary = true
 hidemeta = true
 # images = ['<link or path of image for opengraph, twitter-cards>']
 # keywords = ['Blog', 'Portfolio', 'PaperMod']
