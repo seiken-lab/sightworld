@@ -2,7 +2,7 @@ baseURL = 'https://seiken-lab.com/'
 languageCode = 'ja'
 # paginate = 5
 pygmentsUseClasses = true
-title = 'Seiken Lab.'
+title = 'Seiken ラボ'
 
 [module]
 [[module.imports]]
@@ -32,6 +32,12 @@ name = 'about'
 url = '/about/'
 weight = 30
 
+[[menu.main]]
+identifier = 'sightworld'
+name = 'sightworld'
+url = '/sightworld/'
+weight = 40
+
 [minify]
 disableXML = true
 minifyOutput = true
@@ -59,7 +65,7 @@ hidemeta = true
 # images = ['<link or path of image for opengraph, twitter-cards>']
 # keywords = ['Blog', 'Portfolio', 'PaperMod']
 showtoc = false
-title = 'Seiken Lab.'
+title = 'Seiken ラボ'
 tocopen = false
 
 # [params.analytics]
