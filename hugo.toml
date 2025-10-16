@@ -32,6 +32,12 @@ name = 'about'
 url = '/about/'
 weight = 30
 
+[[menu.main]]
+identifier = 'sightworld'
+name = 'sightworld'
+url = '/sightworld/'
+weight = 40
+
 [minify]
 disableXML = true
 minifyOutput = true
