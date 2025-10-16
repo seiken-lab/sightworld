@@ -1,6 +1,5 @@
 +++
 date = '2025-10-16T00:00:00+09:00'
-draft = false
 title = 'Sightworld 2025'
 +++
 # サイトワールド２０２５
