@@ -1,6 +1,5 @@
 +++
 date = '2025-10-16T00:00:00+09:00'
-draft = false
 title = 'Sightworld 2025'
 +++
 # サイトワールド２０２５
@@ -35,4 +34,4 @@ Seikenラボがサイトワールドに出展いたします。歩行補助デ�
 詳しくは、下記サイトワールドのウェブサイトを御覧ください。
 
 - [視覚障害者向け総合イベント「サイトワールド」](https://www.sight-world.com/)
-- [アクセス]（<https://www.sight-world.com/）>
+- [アクセス](https://www.sight-world.com/access)
